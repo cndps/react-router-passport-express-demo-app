@@ -5,7 +5,7 @@ import {
 	Link,
 	Redirect,
 	withRouter
-} from 'react-router-dom'
+} from 'react-router-dom';
 
 import LoginForm from './components/LoginForm'
 import RegisterForm from './components/RegisterForm'
